@@ -39,6 +39,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Guilherme-LTS&style=for-the-badge&color=blueviolet)
 
+![Rodapé](assets/Rodape.png)
 
 
 
