@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="120px" src="https://orig00.deviantart.net/5adf/f/2015/320/8/1/the_last_of_us_by_dukestewart-d9gvo6i.gif" />
 
-## I am an Information System Graduate - UEA
+<h3 style="border-bottom: none; font-size: 24px;">I am an Information System Graduate - UEA</h3>
 
 - 🔎 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 I'm currently studying Information System at the Universidade do Estado do Amazonas.
