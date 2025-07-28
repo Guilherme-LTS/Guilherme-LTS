@@ -8,6 +8,7 @@
 - 🎓 I'm currently studying Information System at the Universidade do Estado do Amazonas.
 - 🌱 I'm on track for learning more about Frontend / Backend development.
 - 😍 In my free time i try playing video games, volleyball and learning new technologies.
+- 📑 You can see my portifolio right here: [Portifolio](https://guilherme-lts-portifolio.vercel.app/)
 - 📫 How to reach me: <a href="mailto:guilherme.lucas.ts@gmail.com">E-mail</a>  [Linkedin](www.linkedin.com/in/guilherme-lucas-teixeira-silva)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-LTS)
