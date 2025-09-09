@@ -44,6 +44,11 @@
 
 ---
 
+### 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-LTS&layout=compact&langs_count=8&theme=radical)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=Guilherme-LTS&style=for-the-badge&color=blueviolet)
 
 ![Rodapé](assets/Rodape.png)
