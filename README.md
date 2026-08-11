@@ -4,13 +4,13 @@
 
 <h3 style="border-bottom: none; font-size: 24px;">Software Engineer - Full-Stack | SaaS & Product Engineering</h3>
 
-- 🔎 I build digital products from the ground up, with a focus on scalable architectures, automation and real-world impact.
-- 💼 I currently work in the B2B startup ecosystem, developing multi-tenant platforms combining AI, automation, payments and real-time communication.
-- 🚀 My main stack includes TypeScript, Next.js, Node.js, PostgreSQL and Supabase.
-- 🟣 I'm also the creator of <strong>Pontus</strong>, a multi-tenant loyalty SaaS built with Next.js, Fastify and Stripe Billing.
-- 🎓 Bachelor in Information Systems from the Universidade do Estado do Amazonas (UEA).
-- 📑 You can see my portfolio right here: <a href="https://guilherme-lts-portifolio.vercel.app/">Portfolio</a>
-- 📫 How to reach me: <a href="mailto:guilherme.lucas.ts@gmail.com">E-mail</a> · <a href="https://www.linkedin.com/in/guilherme-lucas-teixeira-silva-34b9a7242/">LinkedIn</a>
+- 🔎 I build digital products from the ground up, focusing on scalable architectures, automation, and real-world impact.
+- 💼 I currently work in the B2B startup ecosystem, building multi-tenant platforms that combine AI, automation, payments, and real-time communication.
+- 🚀 My core stack includes TypeScript, Next.js, Node.js, PostgreSQL, and Supabase.
+- 🟣 I'm also the creator of <strong>Pontus</strong>, a multi-tenant loyalty SaaS built with Next.js, Fastify, and Stripe Billing.
+- 🎓 Bachelor's degree in Information Systems from the Universidade do Estado do Amazonas (UEA).
+- 📑 Check out my portfolio here: <a href="https://guilherme-lts-portifolio.vercel.app/">Portfolio</a>
+- 📫 Get in touch: <a href="mailto:guilherme.lucas.ts@gmail.com">E-mail</a> · <a href="https://www.linkedin.com/in/guilherme-lucas-teixeira-silva-34b9a7242/">LinkedIn</a>
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-LTS)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lucas-teixeira-silva-34b9a7242/)
@@ -38,9 +38,9 @@
 
 ### 🟣 Pontus
 
-**SaaS multi-tenant de fidelidade para restaurantes.**
+**Multi-tenant loyalty SaaS for restaurants.**
 
-Plataforma para digitalizar programas de pontos e recompensas, com foco em performance, segurança e experiência de uso.
+A platform designed to digitize loyalty and rewards programs, with a strong focus on performance, security, and user experience.
 
 `Next.js` `TypeScript` `Fastify` `PostgreSQL` `Supabase` `Tailwind CSS`
 
@@ -64,9 +64,9 @@ Plataforma para digitalizar programas de pontos e recompensas, com foco em perfo
 
 ### 🌐 Personal Portfolio
 
-**Meu portfólio como Software Engineer.**
+**My portfolio as a Software Engineer.**
 
-Aplicação criada para apresentar minha trajetória profissional, experiência, projetos e principais tecnologias.
+A personal application built to showcase my professional journey, experience, projects, and core technologies.
 
 `React` `JavaScript` `HTML` `CSS`
 
@@ -126,13 +126,6 @@ Aplicação criada para apresentar minha trajetória profissional, experiência,
 
 ---
 
-
 ![](https://komarev.com/ghpvc/?username=Guilherme-LTS&style=for-the-badge&color=blueviolet)
 
 ![Rodapé](assets/Rodape.png)
-
-
-
-
-
-
