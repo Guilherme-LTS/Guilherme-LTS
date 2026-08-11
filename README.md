@@ -20,64 +20,47 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<a href="https://www.usepontus.com.br/">
-  <img
-    src="./assets/Usepontus%20png.png"
-    alt="UsePontus"
-    width="92%"
-  />
-</a>
-
-### 🟣 Pontus
-
-**Multi-tenant loyalty SaaS for restaurants.**
-
-A platform designed to digitize loyalty and rewards programs, with a strong focus on performance, security, and user experience.
-
-`Next.js` `TypeScript` `Fastify` `PostgreSQL` `Supabase` `Tailwind CSS`
-
-[**↗ Live Demo**](https://www.usepontus.com.br/) · [**Repository**](https://github.com/Guilherme-LTS/Sistema-de-Fidelidade)
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-<a href="https://guilherme-lts-portifolio.vercel.app/">
-  <img
-    src="./assets/Portfolio%20png.png"
-    alt="Personal Portfolio"
-    width="92%"
-  />
-</a>
-
-### 🌐 Personal Portfolio
-
-**My portfolio as a Software Engineer.**
-
-A personal application built to showcase my professional journey, experience, projects, and core technologies.
-
-`React` `JavaScript` `HTML` `CSS`
-
-[**↗ Live Demo**](https://guilherme-lts-portifolio.vercel.app/) · [**Repository**](https://github.com/Guilherme-LTS/portifolio-2)
-
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.usepontus.com.br/">
+        <img src="./assets/Usepontus%20png.png" alt="UsePontus" width="100%" />
+      </a>
+      <br /><br />
+      <h3>Pontus</h3>
+      <p><b>Multi-tenant loyalty SaaS for restaurants.</b></p>
+      <p>A platform designed to digitize loyalty and rewards programs, with a strong focus on performance, security, and user experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <br />
+      <a href="https://www.usepontus.com.br/"><b>Live Demo ↗</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/Guilherme-LTS/Sistema-de-Fidelidade"><b>Repository ↗</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://guilherme-lts-portifolio.vercel.app/">
+        <img src="./assets/Portfolio%20png.png" alt="Personal Portfolio" width="100%" />
+      </a>
+      <br /><br />
+      <h3>Personal Portfolio</h3>
+      <p><b>My portfolio as a Software Engineer.</b></p>
+      <p>A personal application built to showcase my professional journey, experience, projects, and core technologies.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+      <br />
+      <a href="https://guilherme-lts-portifolio.vercel.app/"><b>Live Demo ↗</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/Guilherme-LTS/portifolio-2"><b>Repository ↗</b></a>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
