@@ -19,6 +19,54 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://sistema-fidelidade-flax.vercel.app">
+  <img src="https://raw.githubusercontent.com/Guilherme-LTS/Sistema-de-Fidelidade/main/logo-dark.png" alt="Pontus" width="100%">
+</a>
+
+### 🟣 Pontus
+
+**SaaS multi-tenant de fidelidade para restaurantes.**
+
+Plataforma para digitalizar programas de pontos e recompensas, com foco em performance, segurança e experiência de uso.
+
+**Stack**
+
+`Next.js` `TypeScript` `Fastify` `PostgreSQL` `Supabase` `Tailwind`
+
+[**↗ Live Demo**](https://sistema-fidelidade-flax.vercel.app) · [**Repository**](https://github.com/Guilherme-LTS/Sistema-de-Fidelidade)
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://my-portifolio-chi-ecru.vercel.app">
+  <img src="https://raw.githubusercontent.com/Guilherme-LTS/portifolio-2/main/preview.png" alt="Personal Portfolio" width="100%">
+</a>
+
+### 🌐 Personal Portfolio
+
+**Meu portfólio como Software Engineer.**
+
+Aplicação criada para apresentar minha trajetória profissional, experiência, projetos e principais tecnologias.
+
+**Stack**
+
+`React` `JavaScript` `HTML` `CSS`
+
+[**↗ Live Demo**](https://my-portifolio-chi-ecru.vercel.app) · [**Repository**](https://github.com/Guilherme-LTS/portifolio-2)
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
